@@ -1,5 +1,5 @@
 // const colors = ["green", "red", "rgba(133,122,200)", "#f15025"];
-const colors = ["url('arctic.jpg')", "url('beach.jpg')", "url('mountain.jpg')"];
+const colors = ["('./assets/arctic.jpg')", "url('./assets/beach.jpg')", "url('./assets/mountain.jpg')"];
 
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
